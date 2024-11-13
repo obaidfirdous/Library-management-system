@@ -1,5 +1,5 @@
 # Library Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-MOHD OBAID%20FIRDOUS-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-OBAID%20FIRDOUS-red)
 ---
 ## screenshots
 ### Homepage
